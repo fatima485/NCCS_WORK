@@ -1,0 +1,28 @@
+Fileless threats
+https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/fileless-threats
+https://www.cybereason.com/blog/fileless-malware
+https://link.springer.com/article/10.1186%2Fs42400-019-0043-x
+https://www.virusbulletin.com/conference/vb2015/abstracts/doing-more-less-study-file-less-infection-attacks
+
+
+
+Static analysis and techniques tools
+https://resources.infosecinstitute.com/malware-analysis-basics-static-analysis/#gref
+https://www.peerlyst.com/posts/a-list-of-static-analysis-tools-for-portable-executable-pe-files-susan-parker
+
+
+Memory malware analysis
+https://www.secjuice.com/malware-analysis-memory-forensics/
+https://technical.nttsecurity.com/post/102egyy/hunting-malware-with-memory-analysis
+https://resources.infosecinstitute.com/the-hunt-for-memory-malwares/#gref
+https://blog-assets.f-secure.com/wp-content/uploads/2019/09/17154320/countercept-whitepaper-memory-analysis.pdf
+
+
+
+Dynamic Analysis
+https://resources.infosecinstitute.com/malware-analysis-basic-dynamic-techniques/#article
+https://www.hackingtutorials.org/malware-analysis-tutorials/dynamic-malware-analysis-tools/
+
+MALWARE ANALYSIS  TOOLS
+https://www.malwarefox.com/malware-analysis-tools/
+
